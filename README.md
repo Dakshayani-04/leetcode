@@ -9,4 +9,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Dakshayani-04/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0290-word-pattern](https://github.com/Dakshayani-04/leetcode/tree/master/0290-word-pattern) |
+## Hash Table
+|  |
+| ------- |
+| [0290-word-pattern](https://github.com/Dakshayani-04/leetcode/tree/master/0290-word-pattern) |
 <!---LeetCode Topics End-->
