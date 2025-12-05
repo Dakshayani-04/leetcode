@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dakshayani-04/leetcode/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/Dakshayani-04/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0415-add-strings](https://github.com/Dakshayani-04/leetcode/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Dakshayani-04/leetcode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Dakshayani-04/leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Dakshayani-04/leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Dakshayani-04/leetcode/tree/master/0415-add-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Dakshayani-04/leetcode/tree/master/0409-longest-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Dakshayani-04/leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
