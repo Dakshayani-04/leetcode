@@ -20,16 +20,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Dakshayani-04/leetcode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Dakshayani-04/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Dakshayani-04/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/Dakshayani-04/leetcode/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Dakshayani-04/leetcode/tree/master/0013-roman-to-integer) |
 | [0290-word-pattern](https://github.com/Dakshayani-04/leetcode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Dakshayani-04/leetcode/tree/master/0409-longest-palindrome) |
+| [0500-keyboard-row](https://github.com/Dakshayani-04/leetcode/tree/master/0500-keyboard-row) |
 ## Array
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dakshayani-04/leetcode/tree/master/0014-longest-common-prefix) |
+| [0500-keyboard-row](https://github.com/Dakshayani-04/leetcode/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
 | ------- |
