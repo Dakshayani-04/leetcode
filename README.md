@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dakshayani-04/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Dakshayani-04/leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dakshayani-04/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0500-keyboard-row](https://github.com/Dakshayani-04/leetcode/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Dakshayani-04/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0392-is-subsequence](https://github.com/Dakshayani-04/leetcode/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
