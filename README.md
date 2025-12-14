@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dakshayani-04/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Dakshayani-04/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Dakshayani-04/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Dakshayani-04/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Dakshayani-04/leetcode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Dakshayani-04/leetcode/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/Dakshayani-04/leetcode/tree/master/0500-keyboard-row) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Dakshayani-04/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dakshayani-04/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Dakshayani-04/leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Dakshayani-04/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0500-keyboard-row](https://github.com/Dakshayani-04/leetcode/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Dakshayani-04/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Dakshayani-04/leetcode/tree/master/0217-contains-duplicate) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Dakshayani-04/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
