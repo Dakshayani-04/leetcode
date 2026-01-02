@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Dakshayani-04/leetcode/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/Dakshayani-04/leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Dakshayani-04/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Dakshayani-04/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Dakshayani-04/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/Dakshayani-04/leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Dakshayani-04/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Dakshayani-04/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Trie
 |  |
 | ------- |
