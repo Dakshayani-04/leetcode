@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dakshayani-04/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Dakshayani-04/leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Dakshayani-04/leetcode/tree/master/0504-base-7) |
+| [1390-four-divisors](https://github.com/Dakshayani-04/leetcode/tree/master/1390-four-divisors) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Dakshayani-04/leetcode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Dakshayani-04/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Dakshayani-04/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1390-four-divisors](https://github.com/Dakshayani-04/leetcode/tree/master/1390-four-divisors) |
 ## Trie
 |  |
 | ------- |
